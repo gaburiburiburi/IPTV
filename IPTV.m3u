@@ -1,2 +1,11 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="BRASIL",GLOBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais",GLOBO
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais",GNT FHD¹
+http://lista.hmtvhd.co:80/Wallace/123456/68810
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais",Discovery Channel HD
+http://ts.ec.cx:8080/a/hls1/discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo RJ HD
+http://ts.ec.cx:8080/a/hls1/boborj.m3u8
