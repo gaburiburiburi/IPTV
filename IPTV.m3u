@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais",GLOBO
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/206.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Canais",GNT FHD¹
 http://lista.hmtvhd.co:80/Wallace/123456/68810
 
