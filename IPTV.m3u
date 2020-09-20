@@ -1,5 +1,50 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais",GLOBO
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/226.m3u8
+
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="http://logos.servidor.tv/discoverychannel.png" group-title="Canais: Documentário",Discovery Channel HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/228.m3u8
+
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/230.m3u8
+
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="http://logos.servidor.tv/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",Discovery Home & Health HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/232.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/234.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="http://logos.servidor.tv/discoverykids.jpg" group-title="Canais: Infantil",Discovery Kids HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/236.m3u8
+
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/238.m3u8
+
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="http://logos.servidor.tv/discoveryscience.jpg" group-title="Canais: Documentário",Discovery Science HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/240.m3u8
+
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/242.m3u8
+
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="http://logos.servidor.tv/discoverytheater.png" group-title="Canais: Documentário",Discovery Theater HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/244.m3u8
+
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/246.m3u8
+
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="http://logos.servidor.tv/discoveryturbo.jpg" group-title="Canais: Documentário",Discovery Turbo HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/248.m3u8
+
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/250.m3u8
+
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="http://logos.servidor.tv/discoveryworld.jpg" group-title="Canais: Documentário",Discovery World HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/252.m3u8
+
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/220.m3u8
+
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/222.m3u8
 
 #EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/206.m3u8
@@ -7,116 +52,188 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:0 tvg-id="ext" group-title="Canais",GNT FHD¹
 http://lista.hmtvhd.co:80/Wallace/123456/68810
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais",Discovery Channel HD
-http://ts.ec.cx:8080/a/hls1/discovery.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/148.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo RJ HD
-http://ts.ec.cx:8080/a/hls1/boborj.m3u8
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://logos.servidor.tv/ae.jpg" group-title="Canais: Filme e Série",A&E HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/150.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/eeaxMJ/A_amp_E_HD.png"group-title="Canais Variedades",A&E
-http://ts.ec.cx:8080/a/hls1/aie.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/156.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Documentarios",Animal Planet HD
-http://ts.ec.cx:8080/a/hls1/animalplanet.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://logos.servidor.tv/animalplanet.png" group-title="Canais: Documentário",Animal Planet HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/158.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ivPk8y/Arte1.png"group-title="Canais Variedades",Arte 1 HD
-http://ts.ec.cx:8080/a/hls1/arte1.m3u8
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://logos.servidor.tv/arte1.jpg" group-title="Canais: Variedade e Música",Arte 1 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/160.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Canais Variedades",Canal E
-http://ts.ec.cx:8080/a/hls1/canale.m3u8
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://logos.servidor.tv/e.png" group-title="Canais: Variedade e Música",E! HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/266.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Infantis",Cartoon Network
-http://ts.ec.cx:8080/a/hls1/cartoon.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/196.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="Canais Noticias",CNN Brasil
-http://ts.ec.cx:8080/a/hls1/cnnbrasil.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://logos.servidor.tv/cartoonnetwork.jpg" group-title="Canais: Infantil",Cartoon Network HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/198.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/gdyOvd/Cinemax.png"group-title="Canais Filmes",Cinemax
-http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/204.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Documentarios",Discovery Channel HD
-http://ts.ec.cx:8080/a/hls1/discovery.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN Brasil HD+" tvg-logo="http://logos.servidor.tv/cnnbrasil.png" group-title="Canais: Notícia",CNN Brasil HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/206.m3u8
 
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",Discovery Kids HD
-http://ts.ec.cx:8080/a/hls1/discoverykids.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://logos.servidor.tv/CNN.png" group-title="Canais: Notícia",CNN Internacional SD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/210.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Documentarios",Discovery Home Health HD
-http://ts.ec.cx:8080/a/hls1/discoveryhomeihealth.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/200.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mvGtvd/Discovery_Science.png"group-title="Canais Documentarios",Discovery Science
-http://ts.ec.cx:8080/a/hls1/discoveryscience.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://logos.servidor.tv/cinemax.png" group-title="Canais: Filme e Série",Cinemax HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/202.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais Documentarios",discovery Teather HD
-http://ts.ec.cx:8080/a/hls1/DiscoveryTheater.m3u8
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/254.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Esportes",Discovery Turbo HD
-http://ts.ec.cx:8080/a/hls1/discoveryturbo.m3u8
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel HD+" tvg-logo="http://logos.servidor.tv/disneychannel.png" group-title="Canais: Infantil",Disney Channel HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/256.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais Documentarios",discovery World HD
-http://ts.ec.cx:8080/a/hls1/discoveryworld.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/258.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Infantis",Disney Channel HD
-http://ts.ec.cx:8080/a/hls1/disney.m3u8
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://logos.servidor.tv/disneyjr.png" group-title="Canais: Infantil",Disney Júnior HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/260.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Infantis",Disney Junior
-http://ts.ec.cx:8080/a/hls1/disneyjunior.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/268.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fGq8Ty/E_Entertainment.png"group-title="Canais Variedades",E!
-http://ts.ec.cx:8080/a/hls1/canale.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD+" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN 2 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/270.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais Esportes",ESPN HD
-http://ts.ec.cx:8080/a/hls1/espn.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="http://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/278.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/c5ghoy/Food_Network_HD.png"group-title="Canais Variedades",Food HD
-http://ts.ec.cx:8080/a/hls1/foodnetwork.m3u8
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN Brasil HD+" tvg-logo="http://logos.servidor.tv/espnbrasil.png" group-title="Canais: Esporte",ESPN Brasil HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/274.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais Filmes",Fox Channel HD
-http://ts.ec.cx:8080/a/hls1/fox.m3u8
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD+" tvg-logo="http://logos.servidor.tv/espnextra.png" group-title="Canais: Esporte",ESPN Extra HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/276.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fMzWxJ/Fox_Life_HD.png"group-title="Canais Variedades",Fox Life
-http://ts.ec.cx:8080/a/hls1/foxlife.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/132.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais Filmes",Fox Premium 1 HD
-http://ts.ec.cx:8080/a/hls1/foxpremium1.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD+" tvg-logo="http://logos.servidor.tv/espn.jpg" group-title="Canais: Esporte",ESPN HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/280.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Esportes",Fox Sports2 HD
-http://ts.ec.cx:8080/a/hls1/foxsports2.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Netword HD" tvg-logo="http://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Netword HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/284.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dvqxMJ/FX_HD.png"group-title="Canais Filmes",FX HD
-http://ts.ec.cx:8080/a/hls1/fx.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD+" tvg-logo="http://logos.servidor.tv/foodnetwork.png" group-title="Canais: Variedade e Música",Food Network HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/286.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais Infantis",Gloob HD
-http://ts.ec.cx:8080/a/hls1/gloob.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD" tvg-logo="http://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/288.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo RJ HD
-http://ts.ec.cx:8080/a/hls1/boborj.m3u8
+#EXTINF:-1 tvg-id="fox.br" tvg-name="Fox HD+" tvg-logo="http://logos.servidor.tv/fox.png" group-title="Canais: Filme e Série",Fox HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/290.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png"group-title="Canais Variedades",GNT HD
-http://ts.ec.cx:8080/a/hls1/gnt.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/292.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais Filmes",HBO
-http://ts.ec.cx:8080/a/hls1/hbo.m3u8
+#EXTINF:-1 tvg-id="foxlife.br" tvg-name="Fox Life HD+" tvg-logo="http://logos.servidor.tv/foxlife.png" group-title="Canais: Variedade e Música",Fox Life HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/294.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais Filmes",HBO 2
-http://ts.ec.cx:8080/a/hls1/hbo2.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="http://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/296.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dtN0ad/HBO_Family_HD.png"group-title="Canais Filmes",HBO Family
-http://ts.ec.cx:8080/a/hls1/hbofamily.m3u8
+#EXTINF:-1 tvg-id="foxpremium1.br" tvg-name="Fox Premium 1 HD+" tvg-logo="http://logos.servidor.tv/foxpremium1.png" group-title="Canais: Filme e Série",Fox Premium 1 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/298.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais Variedades",HBO Mundi HD
-http://ts.ec.cx:8080/a/hls1/hbomundi.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="http://logos.servidor.tv/foxpremium2.jpg" group-title="Canais: Filme e Série",Fox Premium 2 HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/300.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais Filmes",HBO POP HD
-http://ts.ec.cx:8080/a/hls1/hbopop.m3u8
+#EXTINF:-1 tvg-id="foxpremium2.br" tvg-name="Fox Premium 2 HD+" tvg-logo="http://logos.servidor.tv/foxpremium2.jpg" group-title="Canais: Filme e Série",Fox Premium 2 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/302.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais Filmes",HBO PLUS
-http://ts.ec.cx:8080/a/hls1/hboplus.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/304.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais Filmes",HBO Signature HD
-http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD+" tvg-logo="http://logos.servidor.tv/foxsports2.jpg" group-title="Canais: Esporte",Fox Sports 2 HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/306.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais Filmes",HBO Xtreme
-http://ts.ec.cx:8080/a/hls1/hboxtreme.m3u8
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/308.m3u8
+
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="Fox Sports HD+" tvg-logo="http://logos.servidor.tv/foxsports.png" group-title="Canais: Esporte",Fox Sports HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/310.m3u8
+
+#EXTINF:-1 tvg-id="fox.br" tvg-name="FX HD" tvg-logo="http://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/312.m3u8
+
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD+" tvg-logo="http://logos.servidor.tv/fx.jpg" group-title="Canais: Filme e Série",FX HD+
+http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/314.m3u8
+
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/278.m3u8
+
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD+" tvg-logo="http://logos.servidor.tv/gloob.jpg" group-title="Canais: Infantil",Gloob HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/280.m3u8
+
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD" tvg-logo="http://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/282.m3u8
+
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="Gloobinho HD+" tvg-logo="http://logos.servidor.tv/gloobinho.png" group-title="Canais: Infantil",Gloobinho HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/2845.m3u8
+
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://logos.servidor.tv/gnt.jpg" group-title="Canais: Variedade e Música",GNT HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/286.m3u8
+
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD" tvg-logo="http://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/292.m3u8
+
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO 2 HD+" tvg-logo="http://logos.servidor.tv/hbo2.png" group-title="Canais: Filme e Série",HBO 2 HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/294.m3u8
+
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/296.m3u8
+
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD+" tvg-logo="http://logos.servidor.tv/hbofamily.png" group-title="Canais: Filme e Série",HBO Family HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/298.m3u8
+
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/300.m3u8
+
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD+" tvg-logo="http://logos.servidor.tv/hbo.png" group-title="Canais: Filme e Série",HBO HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/302.m3u8
+
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/304.m3u8
+
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD+" tvg-logo="http://logos.servidor.tv/hbomundi.jpg" group-title="Canais: Filme e Série",HBO Mundi HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/306.m3u8
+
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/308.m3u8
+
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD+" tvg-logo="http://logos.servidor.tv/hboplus.png" group-title="Canais: Filme e Série",HBO Plus HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/310.m3u8
+
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/312.m3u8
+
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD+" tvg-logo="http://logos.servidor.tv/hbopop.jpg" group-title="Canais: Filme e Série",HBO Pop HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/314.m3u8
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD" tvg-logo="http://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/316.m3u8
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO Signature HD+" tvg-logo="http://logos.servidor.tv/hbosignature.png" group-title="Canais: Filme e Série",HBO Signature HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/318.m3u8
+
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/320.m3u8
+
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD+" tvg-logo="http://logos.servidor.tv/hboxtreme.jpg" group-title="Canais: Filme e Série",HBO Xtreme HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/322.m3u8
 
 #EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="http://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD+
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/290.m3u8
