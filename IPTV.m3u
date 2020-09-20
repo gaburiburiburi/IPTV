@@ -118,11 +118,14 @@ http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais Filmes",HBO Xtreme
 http://ts.ec.cx:8080/a/hls1/hboxtreme.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Documentarios",History
-http://ts.ec.cx:8080/a/hls1/history.m3u8
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD+" tvg-logo="http://logos.servidor.tv/h2.png" group-title="Canais: Documentário",H2 HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/290.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jZygFd/The_History_Channel.png"group-title="Canais Documentarios",History 2
-http://ts.ec.cx:8080/a/hls1/history2.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/324.m3u8
+
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD+" tvg-logo="http://logos.servidor.tv/thehistorychannel.png" group-title="Canais: Documentário",History Channel HD+
+http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/326.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Documentarios",Investigação Discovery
 http://ts.ec.cx:8080/a/hls1/investigacaodiscovery.m3u8
