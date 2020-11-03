@@ -46,8 +46,14 @@ http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo RJ HD+" tvg-logo="http://logos.servidor.tv/globo.jpg" group-title="Canais: Abertos",Globo RJ HD+
 http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/222.m3u8
 
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="Globo News HD" tvg-logo="http://logos.servidor.tv/globonews.png" group-title="Canais: Notícia",Globo News HD
-http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/206.m3u8
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS FHD" tvg-logo="http://mytv.tv.br/canais/globonews.png" group-title="NOTICIAS",GLOBO NEWS FHD
+http://multicdn.xyz:8080/live/264543/264543/7851.m3u8
+
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://multicdn.xyz:8080/live/264543/264543/872.m3u8
+
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="NOTICIAS",GLOBO NEWS HD
+http://multicdn.xyz:8080/live/264543/264543/23352.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Canais",GNT FHD¹
 http://lista.hmtvhd.co:80/Wallace/123456/68810
