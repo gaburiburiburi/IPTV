@@ -863,13 +863,7 @@ http://multicdn.xyz:8080/live/264543/264543/14368.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEW" tvg-logo="https://1.bp.blogspot.com/-ivf-zbSMeHE/Xs6aesm2hRI/AAAAAAAAF9M/unW2gtHpqx0go1d0Aa0PhVIYQLNcO4-GACLcBGAsYHQ/s1600/FOX%2BNEW.png" group-title="NOTICIAS",FOX NEW
 http://multicdn.xyz:8080/live/264543/264543/22851.m3u8
 #EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS FHD" tvg-logo="http://mytv.tv.br/canais/globonews.png" group-title="NOTICIAS",GLOBO NEWS FHD
-http://multicdn.xyz:8080/live/264543/264543/7851.m3u8
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://multicdn.xyz:8080/live/264543/264543/872.m3u8
-#EXTINF:-1 tvg-id="Globo News HD" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="NOTICIAS",GLOBO NEWS HD
-http://multicdn.xyz:8080/live/264543/264543/23352.m3u8
-#EXTINF:-1 tvg-id="Globo News FHD" tvg-name="GLOBO NEWS SD" tvg-logo="https://1.bp.blogspot.com/-5NFWoGxXMVo/Xk70W5FuqxI/AAAAAAAACFI/R0Md5ax85cUGHe4H8bhHZorfcukZH3TOACLcBGAsYHQ/s1600/globo.png" group-title="NOTICIAS",GLOBO NEWS SD
-http://multicdn.xyz:8080/live/264543/264543/23351.m3u8
+http://185.232.53.3:2086/live/craigg/1Lurn7m3F1/92691.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GV NEWS" tvg-logo="https://1.bp.blogspot.com/-RDdEcdcX244/XV8UDl2g8rI/AAAAAAAABjA/CitjzQQuHH4qZlwxh34sESi59_5tmgP6gCPcBGAYYCw/s320/Screenshot_2019-08-22-02-07-29.png" group-title="NOTICIAS",GV NEWS
 http://multicdn.xyz:8080/live/264543/264543/32421.m3u8
 #EXTINF:-1 tvg-id="Record News" tvg-name="RECORD NEWS HD" tvg-logo="https://4.bp.blogspot.com/-nwyV2Oapghc/XmUXf5cBdNI/AAAAAAAACWs/m5dRX93VsokD8xiO7QID692c8KvL8cMUQCK4BGAYYCw/s400/RECORD%2BNEW.png" group-title="NOTICIAS",RECORD NEWS HD
