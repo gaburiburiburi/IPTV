@@ -157,6 +157,10 @@ http://maxpig.live:8080/adriano123/adriano123/19855
 http://maxpig.live:8080/adriano123/adriano123/19856
 #EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS-HD" tvg-logo="http://meumaxpig.live/canais/globonews.png" group-title="Noticias",GLOBO NEWS-HD
 http://maxpig.live:8080/adriano123/adriano123/19858
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS-HD 2" tvg-logo="http://meumaxpig.live/canais/globonews.png" group-title="Noticias",GLOBO NEWS-HD
+http://cdn.ontvhdbr.co:80/Germana/12345/78333
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS-FHD 2" tvg-logo="http://meumaxpig.live/canais/globonews.png" group-title="Noticias",GLOBO NEWS-HD
+http://pdsrv.io:80/jesus12345/jesus12345/7442
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="HBO",HBO-SD
 http://maxpig.live:8080/adriano123/adriano123/19912
 #EXTINF:-1 tvg-id="" tvg-name="HBO +-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="HBO",HBO +-SD
