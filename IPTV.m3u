@@ -151,12 +151,8 @@ http://maxpig.live:8080/adriano123/adriano123/19822
 http://maxpig.live:8080/adriano123/adriano123/19824
 #EXTINF:-1 tvg-id="fx.br" tvg-name="FX-HD" tvg-logo="http://meumaxpig.live/canais/fx.png" group-title="Filmes e Séries",FX-HD
 http://maxpig.live:8080/adriano123/adriano123/19826
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News FHD | TechRuthes.com
-http://mytvip.xyz/live/112233/112233/63125.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News FHD² | TechRuthes.com
-http://mytvip.xyz/live/112233/112233/63124.m3u8
-#EXTINF:-1 tvg-ID="globonews" tvg-name="Globo News HD" group-title="Notícias",Globo News HD | TechRuthes.com
-http://mytvip.xyz/live/112233/112233/63123.m3u8
+#EXTINF:-1,GLOBO NEWS
+http://rec2.distv.net:80/pablo/123/467
 #EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="HBO",HBO-SD
 http://maxpig.live:8080/adriano123/adriano123/19912
 #EXTINF:-1 tvg-id="" tvg-name="HBO +-SD" tvg-logo="http://meumaxpig.live/canais/hbo.png" group-title="HBO",HBO +-SD
